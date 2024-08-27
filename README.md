@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Fatma and I'm a Backend Developer, from Egypt</p>
+<p align="center">My name is Fatma and I'm a Frontend Developer (Vue.js) , from Egypt</p>
 
 ###
 
